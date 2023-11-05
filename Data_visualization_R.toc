@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introdcution to \emph {ggplot2}}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Learn by examples}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}ggplot package}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Geom}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Grouping}{5}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Scales}{6}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Facet}{8}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}Labels}{8}{subsubsection.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.1.7}Theme}{10}{subsubsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.2}Graph as object}{11}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Univariate Graph}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Categorical}{14}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Barchart}{14}{subsubsection.2.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1}Count / Frequency}{14}{paragraph.2.1.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.2}Parcent}{15}{paragraph.2.1.1.2}%
+\contentsline {paragraph}{\numberline {2.1.1.3}Sorting categories}{17}{paragraph.2.1.1.3}%
+\contentsline {paragraph}{\numberline {2.1.1.4}labelling the bars}{19}{paragraph.2.1.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.2}Pie chart}{25}{subsubsection.2.1.2}%
+\contentsline {paragraph}{\numberline {2.1.2.1}Without label}{26}{paragraph.2.1.2.1}%
+\contentsline {paragraph}{\numberline {2.1.2.2}circle label and in pie plot, with no split}{28}{paragraph.2.1.2.2}%
+\contentsline {paragraph}{\numberline {2.1.2.3}horizon label and in pie plot, with no split}{29}{paragraph.2.1.2.3}%
+\contentsline {paragraph}{\numberline {2.1.2.4}horizon label and in pie plot, split with space}{30}{paragraph.2.1.2.4}%
+\contentsline {paragraph}{\numberline {2.1.2.5}horizon label and out pie plot, with no split}{31}{paragraph.2.1.2.5}%
+\contentsline {paragraph}{\numberline {2.1.2.6}with label threshold}{32}{paragraph.2.1.2.6}%
+\contentsline {subsubsection}{\numberline {2.1.3}Tree map}{32}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Wafle Chart}{35}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Quantitative}{36}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Histogram}{36}{subsubsection.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1}Bins and bandwidths}{38}{paragraph.2.2.1.1}%
+\contentsline {paragraph}{\numberline {2.2.1.2}Bins and bandwidths}{39}{paragraph.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}Kernel density Plot}{42}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Dot chart}{45}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Bivariate Graphs}{47}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Categorical vs.\nobreakspace {}Categorical}{47}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Grouped bar chart}{48}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Improving the color and labeling}{51}{subsubsection.3.1.2}%
